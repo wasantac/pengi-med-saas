@@ -1,0 +1,22 @@
+[
+	{
+		"key": "pengi.copywright",
+		"value": "pengistudio"
+	},
+	{
+		"key": "E-INT-001",
+		"value": "Error interno del servidor."
+	},
+	{
+		"key": "E-MES-001",
+		"value": "Mensajes no encontrados."
+	},
+	{
+		"key": "E-COMP-001",
+		"value": "Compañía no encontrada."
+	},
+	{
+		"key": "E-TEN-001",
+		"value": "Inquilino (Tenant) no encontrado."
+	}
+]
